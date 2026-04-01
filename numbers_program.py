@@ -5,7 +5,7 @@ print (16%2)
 
 
 
-tax = 12.5 / 100
+tax = 16.5 / 100
 price = 100.50
 
 total = price + (price * tax)
